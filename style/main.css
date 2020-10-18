@@ -58,7 +58,7 @@ header nav a:hover{
 }
 
 .titulo {
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: 'Arial', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 40px;
     margin-top: 15%;
 }
@@ -97,4 +97,8 @@ header nav a:hover{
     display: block;
     height: 100%;
     width: 100%;
+}
+
+.carousel-filmes {
+    margin-top: 5px;
 }
